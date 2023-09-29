@@ -28,43 +28,43 @@ const Experience = () => {
           <div>
             <ul className="flex items-center justify-center mt-4 gap-[50px] flex-wrap ">
               <li className="p-4">
-                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer h-[30px] items-center justify-around w-[auto] px-5 py-2 hover:scale-115 duration-300">
+                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer  items-center justify-around  px-5 py-2 hover:scale-115 duration-300">
                   <AiFillHtml5 size={35} className="mr-2" />
                   HTML
                 </div>
               </li>
               <li className="p-4">
-                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer h-[30px] items-center justify-around w-[auto] px-5 py-2 hover:scale-115 duration-300">
+                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer  items-center justify-around  px-5 py-2 hover:scale-115 duration-300">
                   <DiCss3 size={35} className="mr-2" />
                   CSS
                 </div>
               </li>
               <li className="p-4">
-                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer h-[30px] items-center justify-around w-[auto] px-5 py-2 hover:scale-115 duration-300">
+                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer items-center justify-around px-5 py-2 hover:scale-115 duration-300">
                   <BiLogoJavascript size={35} className="mr-1" />
                   JavaScript
                 </div>
               </li>
               <li className="p-4">
-                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer h-[30px] items-center justify-around w-[auto] px-5 py-2 hover:scale-115 duration-300">
+                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer items-center justify-around  px-5 py-2 hover:scale-115 duration-300">
                   <BiLogoReact size={35} className="mr-1" />
                   ReactJs
                 </div>
               </li>
               <li className="p-4">
-                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer h-[30px] items-center justify-around w-[auto] px-5 py-2 hover:scale-115 duration-300">
+                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer  items-center justify-around  px-5 py-2 hover:scale-115 duration-300">
                   <TbBrandRedux size={35} className="mr-1" />
                   Redux
                 </div>
               </li>
               <li className="p-4">
-                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer h-[30px] items-center justify-around w-[auto] px-5 py-2 hover:scale-115 duration-300">
+                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer items-center justify-around  px-5 py-2 hover:scale-115 duration-300">
                   <BiLogoTailwindCss size={35} className="mr-1" />
                   Tailwind
                 </div>
               </li>
               <li className="p-4">
-                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer h-[30px] items-center justify-around w-[auto] px-5 py-2 hover:scale-115 duration-300">
+                <div className="flex flex-col h-[150px] w-[100px] text-white font-bold rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer  items-center justify-around  px-5 py-2 hover:scale-115 duration-300">
                   <AiFillGithub size={35} className="mr-1" /> Git
                 </div>
               </li>
